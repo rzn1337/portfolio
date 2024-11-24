@@ -1,8 +1,8 @@
 "use client"
 
 import { useState, useEffect } from 'react'
-import { Sun, Moon, BarChart2 } from 'lucide-react'
 import { Button } from "@/components/ui/button"
+import { Moon, Sun } from 'lucide-react'
 
 export function ThemeToggle() {
   const [theme, setTheme] = useState<'light' | 'dark'>('dark')

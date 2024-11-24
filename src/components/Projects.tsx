@@ -106,7 +106,7 @@ export function Projects() {
             {/* Button container - always at bottom */}
             <div className="flex justify-end pt-6">
               <a
-                href="#" // Replace with actual demo/live link
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-zinc-800 hover:bg-zinc-700 transition-colors"
